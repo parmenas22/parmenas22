@@ -4,8 +4,8 @@
 - 🌱 I’m currently expanding my knowledge in **.NET, Angular and Cloud technologies**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- 📫 **Email:** machariaparmenas22@gmail.com  
-💼 **LinkedIn:** [parmenasmacharia22](https://www.linkedin.com/in/parmenasmacharia22/)  
+- 📫 **Email:** machariaparmenas22@gmail.com
+- 💼 **LinkedIn:** [parmenasmacharia22](https://www.linkedin.com/in/parmenasmacharia22/)  
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
