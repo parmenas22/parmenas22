@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parmenas
 - 👀 I’m a software developer passionate about learning and building innovative solutions. I thrive on solving problems and continuously improving my skills.
 
-- 🌱 I’m currently expanding my knowledge in **.NET, Angular and Cloud technologies**.
+- 🌱 I’m currently expanding my knowledge in **Cloud technologies and AI**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 📫 **Email:** machariaparmenas22@gmail.com
